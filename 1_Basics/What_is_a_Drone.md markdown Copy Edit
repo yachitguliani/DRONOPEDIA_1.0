@@ -1,0 +1,44 @@
+# What is a Drone?
+
+A **drone**, also called a **UAV (Unmanned Aerial Vehicle)**, is an aircraft that flies without a human pilot onboard. It is operated either remotely by a pilot or autonomously using pre-programmed flight paths and sensors.
+
+---
+
+## 🧠 Key Characteristics
+- No onboard human pilot
+- Controlled remotely or autonomously
+- Modular and lightweight design
+- Carries cameras, sensors, or payloads
+
+---
+
+## ✈️ Drone vs UAV vs UAS
+
+| Term | Meaning |
+|------|---------|
+| UAV | Unmanned Aerial Vehicle – the flying unit |
+| UAS | Unmanned Aerial System – includes UAV + controller + comms |
+| Drone | Common nickname for UAV/UAS |
+
+---
+
+## 🔍 Types of Control
+- **Manual RC Control** (like a toy drone)
+- **Autonomous Waypoint Navigation** using GPS
+- **FPV (First Person View)** via onboard camera
+
+---
+
+## 💡 Real-World Uses
+- Aerial photography and cinematography
+- Agriculture and crop monitoring
+- Disaster response and surveillance
+- Package delivery (e.g., Amazon Prime Air)
+- Defense and reconnaissance
+
+---
+
+## 📦 Fun Fact
+The word "drone" originally referred to the **buzzing sound** made by male bees—and early UAVs made a similar sound!
+
+---
