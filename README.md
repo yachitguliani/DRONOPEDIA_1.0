@@ -1,36 +1,80 @@
-# DRONOPEDIA_1.0
-# 🛸 Droneopedia – From Propellers to Precision
+<h1 align="center">🧠 DRONEOPEDIA</h1>
+<p align="center">
+Your ultimate open-source knowledge base for everything drones — from beginner to builder, theory to flight.
+</p>
 
-Welcome to **Droneopedia** – your complete, open-source guide to drones.  
-This repository is built and maintained by **Yachit Guliani** – a drone enthusiast aiming to contribute to open-source learning while preparing for a career in drone technology and R&D.
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yachitguliani/DRONOPEDIA_1.0?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/badge/Made%20By-Rusty%20🛠️-green" alt="Author">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
+  <img src="https://img.shields.io/badge/Built%20with-Markdown-lightgrey" alt="Markdown">
+</p>
 
 ---
 
-## 📁 Structure
+## 📦 What is Droneopedia?
+
+**Droneopedia** is a comprehensive GitHub repository aimed at:
+- 🧑‍🎓 Educating drone beginners
+- 🛠️ Assisting makers and hobbyists
+- 🧪 Supporting drone researchers and developers
+
+It combines hands-on drone projects, design calculations, regulatory knowledge, and software comparisons — all in one place.
+
+---
+
+## 🧭 Table of Contents
 
 | Folder | Description |
 |--------|-------------|
-| `1_Basics/` | Fundamentals of drones, history, and applications |
-| `2_Types/` | Fixed-wing, rotary, VTOL, and hybrid drones |
-| `3_Aerodynamics/` | Wing design, lift, drag, and thrust principles |
-| `4_Components/` | Electronics, motors, sensors, batteries, etc. |
-| `5_Software/` | PX4, ArduPilot, simulators, GCS tools |
-| `6_Design_Guide/` | Building, tuning, and optimizing your drone |
-| `7_Regulations/` | Drone laws: India (DGCA), USA (FAA), global |
-| `8_Projects/` | My DIY drone builds and personal learning logs |
-| `9_References/` | Books, research papers, YouTube tutorials |
+| `1_Basics/` | Introduction to drones, history, and applications |
+| `2_Types/` | Fixed-wing, multirotor, VTOL, and hybrid UAVs |
+| `3_Aerodynamics/` | Wing shapes, thrust-lift-drag principles, propeller design |
+| `4_Components/` | ESCs, motors, flight controllers, power systems |
+| `5_Software/` | PX4 vs ArduPilot, QGroundControl, simulators |
+| `6_Design_Guide/` | Frame selection, propulsion math, PID tuning |
+| `7_Regulations/` | DGCA India, FAA (USA), and global drone laws |
+| `8_Projects/` | DIY drone builds (Pixhawk, ESP32-Cam, FPV) |
+| `9_References/` | Best books, videos, and learning paths |
 
- 🎯 Why Droneopedia?
+---
 
-> This repo is my personal learning archive and public knowledge base.  
-> It’s built to help beginners, hobbyists, and students dive deep into drone tech.  
-> And yes, it’s also a **portfolio flex** for future opportunities in drone startups, defense R&D, and aerospace domains. 🚀
+## 🚁 Why I Built This
 
+I wanted to create a single, open-source reference for:
+- Everyone building their **first drone**
+- Engineers trying to understand the **"why" behind each part**
+- Me — Rusty — so I could give back to the community that helped me fly 🙌
 
-## 🔗 Connect With Me
+> ✨ Whether you're prepping for a drone job, a capstone, or a mission — Droneopedia is for you.
 
-- 📬 Email: yachitguliani2005@email.com  
-- 💼 LinkedIn: [Yachit Guliani](https://www.linkedin.com/in/yachit-g-baa953201)
+---
 
+## 🧰 Built With
 
-> Made with ❤️ and brushless motors.
+- 📄 Markdown
+- 🔍 Research from ArduPilot, PX4, eCalc, DGCA, and real-world builds
+- 💻 My personal projects + flight-tested insights
+
+---
+
+## 🔗 Check Out the Repo
+
+👉 [github.com/yachitguliani/DRONOPEDIA_1.0](https://github.com/yachitguliani/DRONOPEDIA_1.0)  
+⭐ Give it a star if you found it helpful!
+
+---
+
+## 🧑‍🔧 Maintained by
+
+**Yachit Guliani (Rusty)**  
+`Rusty Never Stops 🚁`
+
+🔗 [LinkedIn](https://www.linkedin.com/in/yachit-g-baa953201/)  
+📬 Feel free to connect, contribute, or collaborate!
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
