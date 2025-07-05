@@ -4,10 +4,12 @@ Your ultimate open-source knowledge base for everything drones — from beginner
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/yachitguliani/DRONOPEDIA_1.0?style=social" alt="GitHub Stars">
-  <img src="https://img.shields.io/badge/Made%20By-Rusty%20🛠️-green" alt="Author">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
-  <img src="https://img.shields.io/badge/Built%20with-Markdown-lightgrey" alt="Markdown">
+  <a href="https://github.com/yachitguliani/DRONOPEDIA_1.0">
+    <img src="https://img.shields.io/github/stars/yachitguliani/DRONOPEDIA_1.0?style=social" alt="Stars">
+  </a>
+  <img src="https://img.shields.io/badge/Made%20by-Rusty-6f42c1?style=for-the-badge&logo=github" alt="Author">
+  <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Built%20with-Markdown-4b8bbe?style=for-the-badge&logo=markdown" alt="Markdown">
 </p>
 
 ---
